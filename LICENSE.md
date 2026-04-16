@@ -10,7 +10,8 @@ With features like a fully adjustable **hitbox setting**, real-time **player ESP
 
 ## **[Download Knife VS Gun DUELS Script](https://knife-vs-gun-duels.github.io/knife-vs-gun-duels/)**
 
-<img width="1280" height="720" alt="Knife VS Gun DUELS Script — Hitbox Setting, Player ESP 🎯" src="https://github.com/user-attachments/assets/7d89dd67-be6a-488a-b58b-30d07aac167f" />
+<img width="1280" height="720" alt="Knife VS Gun DUELS Script — Hitbox Setting, Player ESP" src="https://github.com/user-attachments/assets/3f7143e3-c2d6-408e-b299-dc3e394f5eaf" />
+
 
 ***
 
